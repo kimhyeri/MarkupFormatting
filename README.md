@@ -3,11 +3,11 @@
 ## Xcode Quick Help
 > Quick Help for a symbol is shown by Option-clicking a symbol.
 
-## in Xcode
+## In Xcode
 - ```Command + Option + /```
 - Editor - Structure - Add Documentation 
 
-## index
+## Index
 | Group | 
 | ----- | 
 [Inserting Callouts](https://github.com/kimhyeri/MarkupFormatting/tree/master/Inserting%20Callouts)|
